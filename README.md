@@ -9,5 +9,8 @@ Exercícios do meu curso de React, com o objetivo de praticar os fundamentos.
 - Renderização condicional e listas com `key`
 
 ## Como rodar
+
+```bash
 npm install
 npm start
+```
